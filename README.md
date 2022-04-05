@@ -1,2 +1,2 @@
-# pamphlinks.github.io
-Very simple, just a list of links referred to in a pamphlet - QR leads to this page.
+# Velkommen!
+Her findes en liste af links til alle de nævnte ting fra folderen
