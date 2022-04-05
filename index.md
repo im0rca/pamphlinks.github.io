@@ -1,4 +1,4 @@
-# Fedt du valgte at scanne QR-koden!
+Fedt du valgte at scanne QR-koden!
 På siden her finder du det helt samme indhold som i din udleverede folder, plus en smule mere information om de forskellige sites.
 
 ## CTF-platforme
