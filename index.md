@@ -26,13 +26,13 @@ På siden her finder du det helt samme indhold som i din udleverede folder, plus
 
 ### Diverse
 **Podcasts**
-- [Darknet Diaries](https://darknetdiaries.com/) af Jack Rhysider: 
-- [Malicious Life](https://malicious.life/) af Ran Levi: 
-- [Cyber](https://open.spotify.com/show/3smcGJaAF6F7sioqFDQjzn) af VICE: 
+- "[Darknet Diaries](https://darknetdiaries.com/)" af Jack Rhysider: 
+- "[Malicious Life](https://malicious.life/)" af Ran Levi: 
+- "[Cyber](https://open.spotify.com/show/3smcGJaAF6F7sioqFDQjzn)" af VICE: 
 
 **Bøger**
-- [Ghost in the Wires](https://www.saxo.com/dk/ghost-in-the-wires_kevin-mitnick_paperback_9780316037723) af Kevin Mitnick: 
-- [Hacking: The Art of Exploitation](https://www.saxo.com/dk/hacking-the-art-of-exploitation-2nd-edition_jon-erickson_epub_9781593273385) af Jon Erickson: 
+- "[Ghost in the Wires](https://www.saxo.com/dk/ghost-in-the-wires_kevin-mitnick_paperback_9780316037723)" af Kevin Mitnick: 
+- "[Hacking: The Art of Exploitation](https://www.saxo.com/dk/hacking-the-art-of-exploitation-2nd-edition_jon-erickson_epub_9781593273385)" af Jon Erickson: 
 
 **Film**
 - [Hackers (1995)](https://www.imdb.com/title/tt0113243/): 
