@@ -1,2 +1,2 @@
 # Velkommen!
-Her findes en liste af links til alle de nævnte ting fra folderen
+Her findes en liste af links til alle de ting der er nævnt i folderen
